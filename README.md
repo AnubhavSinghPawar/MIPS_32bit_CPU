@@ -6,7 +6,7 @@
 
 
 
-This project is designed by Anubhav Singh Pawar as part of an internship task assigned by the collaborator "recruit-vicharak". The main objective of this project is to develop a 32-bit CPU using Verilog, incorporating various instructions and functionality, including arithmetic operations, logical operations, jumps, and memory access operations.
+This project is designed by Anubhav Singh Pawar as a self-project. The main objective of this project is to develop a 32-bit CPU using Verilog, incorporating various instructions and functionality, including arithmetic operations, logical operations, jumps, and memory access operations.
 
 
 
