@@ -1,5 +1,4 @@
-# MIPS_32bit_CPU
-# Verilog 32-bit CPU Design
+# MIPS_32bit_CPU (Verilog 32-bit CPU Design)
 
 
 
